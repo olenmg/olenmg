@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently interested in computational neuroscience and natural language processing.
+I'm interested in computational neuroscience and natural language processing.
 
 Please feel free to contact me at jgheon.kim@gmail.com 😊
 
