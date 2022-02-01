@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+
+I'm currently interested in computational neuroscience and natural language processing.
+
+Please feel free to contact me at jgheon.kim@gmail.com 😊
+
+[CV](https://olenmg.github.io/pdf/Jongheon-Kim_CV.pdf)  |  [Blog](https://olenmg.github.io)
+
 
 <!--
 **olenmg/olenmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
