@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-I am mainly interested in Computational Neuroscience and Cognitive Neuroscience. I am also open to exploring a variety of other intriguing fields. I always pursue interdisciplinary convergence and enjoy it much.
+I am mainly interested in Computational Neuroscience and Cognitive Neuroscience, and I am always open to exploring a variety of other intriguing fields. I pursue interdisciplinary convergence and enjoy it much.
 
-Please feel free to contact me at jgheon.kim@gmail.com.
-
-[CV](https://olenmg.github.io/pdf/Jongheon-Kim_CV.pdf)
+- Please feel free to contact me at jgheon.kim@gmail.com.  
+- Please refer to my [CV](https://olenmg.github.io/pdf/Jongheon-Kim_CV.pdf) if you have any interest.
 
 
 <!--
